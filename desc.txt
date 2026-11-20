@@ -1,0 +1,11 @@
+git is a version control system .it is used to track change in your code and manage projects.
+
+In simple : Git ek tool hai jo aapko code main hone wale change ko save karta hai taki ap dekha sakein li kab aur kya change kiya gaya hai.
+
+what do u use git?
+1. To save code changes
+2. To track project history
+3. To recover previous version of code.
+4. To work with team members.
+5. To manage projects easily.
+
